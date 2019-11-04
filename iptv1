@@ -12,40 +12,42 @@ https://2122248094.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8?
 #EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",ATV Turk
 https://black.tvizlehd.com/atv.m3u8?tkn=vQqSJnsaYfnYMjis7ZsnFg&tms=1572654207
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",Az TV
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaycan",Az TV
 https://fsn01-origin01.tvibo.com/5929820/tracks-v1a1/mono.m3u8?token=1a8d6fedc7313a5785997bacc15441f6fd0d50b3-IrGHuxcX9Paem3zj-1572665256-1572643656
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",Idman AZ
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaycan",Idman AZ
 https://fsn01-origin01.tvibo.com/3977238/tracks-v1a1/mono.m3u8?token=04b8419068dc37a6aff00fde512d888fb79fd590-GMlOWTBbO97EZV9G-1572665319-1572643719
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",Medeniyyet AZ
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaycan",Medeniyyet AZ
 https://fsn01-origin01.tvibo.com/6858270/tracks-v1a1/mono.m3u8?token=88ce051a8fe5333225766cd54371a7a16e9fe2a4-dNcepZbd1tFfOoWN-1572665371-1572643771
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",Xezer TV
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaycan",Xezer TV
 http://bak01-edge03.itdc.ge/xazer/tracks-v1a1/mono.m3u8?token=GwHgnAJx5C8mUvbpH1DSso8luCznLVSc_ahkz6FzjBM%2A
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",ARB AZ
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaycan",ARB AZ
 http://bak01-edge03.itdc.ge/arb/tracks-v1a1/mono.m3u8?token=GwHgnAJx5C8mUvbpH1DSso8luCznLVSc_ahkz6FzjBM%2A
 
-#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Azerbaijan",Multimania
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Rus",Multimania
 http://bak01-edge03.itdc.ge/multimania/tracks-v1a1/mono.m3u8?token=GwHgnAJx5C8mUvbpH1DSso8luCznLVSc_ahkz6FzjBM%2A
 
 #EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",Show tv
 https://salvador.tvizlehd.com/showtv.m3u8?tkn=V_-Jc4Q5dY_63IBzZcgrIA&tms=1572655608
 
-#EXTINF:-1,STAR TV
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1,KRAL TV
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",KRAL TV
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 
-#EXTINF:-1,POWER HD
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",POWER HD
 https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
-#EXTINF:-1,TRT 1
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT Avaz
+
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",TRT Avaz
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1,TRT Cocuk
+
+#EXTINF:-1 tvg-shift="" tcg-id="" tvg-logo="" group-title="Turk",TRT Cocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
